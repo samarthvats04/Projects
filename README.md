@@ -1,6 +1,6 @@
 # Projects
 
-Welcome to my Projects repository! This space is dedicated to my personal learning journey, where I experiment with various coding projects and explore different technologies.\n
+Welcome to my Projects repository! This space is dedicated to my personal learning journey, where I experiment with various coding projects and explore different technologies.
 The projects here range across different fields and levels of complexity, helping me to develop my programming skills and deepen my understanding.
 Feel free to suggest me any changes and constructive criticism in any of the projects.
 
