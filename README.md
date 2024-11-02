@@ -8,11 +8,11 @@ Feel free to suggest me any changes and constructive criticism in any of the pro
 
 This repository includes:
 
-Data Science and Machine Learning: Projects focused on data analysis, machine learning models, and data visualization.
+**Data Science and Machine Learning:** Projects focused on data analysis, machine learning models, and data visualization.
 
-Web Development: Small web apps and experiments using HTML, CSS, JavaScript, and backend tools.
+**Web Development:** Small web apps and experiments using HTML, CSS, JavaScript, and backend tools.
 
-Algorithms and Data Structures: Practice problems and implementations to improve my problem-solving abilities.
+**Algorithms and Data Structures:** Practice problems and implementations to improve my problem-solving abilities.
 
 ## Purpose
 
