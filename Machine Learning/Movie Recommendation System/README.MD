@@ -9,5 +9,5 @@ The dataset used in this project is sourced from TMDB movie database from Kaggle
 
 ##Prerequisites:
 To run this notebook, you'll need:  
-- Python 3.9 and above  
-- Libraries: `numpy`, `pandas`, `scikit-learn`, `streamlit`, 'nltk'. 
+- `Python 3.9` and above  
+- Libraries: `numpy`, `pandas`, `scikit-learn`, `streamlit`, `nltk`. 
