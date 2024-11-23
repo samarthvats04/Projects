@@ -9,8 +9,8 @@ The uploaded notebook demonstrates the following features:
 The dataset used in this project is sourced from TMDB movie database from Kaggle. It contains user ratings, movie information, metadata, and other essential features used in building the model.
 
 ## Frontend:
-The frontend application that implements the developed model is created using streamlit, and the data and the required dependencies for the similarity of the results is pipelined through the use of `pickle` library.
-Run the notebook and 2 .pkl files will be created automatically.
+The frontend application that implements the developed model is created using streamlit, and the data and the required dependencies for the similarity of the results is pipelined through the use of `pickle` library.\n
+Run the notebook and 2 .pkl files will be created automatically.\n
 Then, run the app locally on your browser by passing the following command in the terminal:
 ```
 streamlit run app.py
