@@ -16,12 +16,14 @@ Run the notebook and 2 .pkl files will be created automatically.
 To run this notebook, you'll need:  
 - `Python 3.9` and above  
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `nltk`, `pickle`.
-      You can install the libraries using the following command in your terminal:
-      ```
-      pip install <library name>
-      ```
+
+You can install the libraries using the following command in your terminal:
+```
+pip install <library name>
+```
 
 To run the app, ensure the following libraries are installed:
--`Streamlit`
--`Pickle`
--`requests`
+
+- `Streamlit`
+- `Pickle`
+- `requests`
