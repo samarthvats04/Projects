@@ -13,7 +13,8 @@ The frontend application that implements the developed model is created using st
 Run the notebook and 2 .pkl files will be created automatically. 
 
 ## Prerequisites:
-Firstly, download the project files and then extract the datasets into the same directory that you are storing the .ipynb and .py files
+Firstly, download the project files and then extract the datasets into the same directory that you are storing the .ipynb and .py files.
+
 To run this notebook, you'll need:  
 - `Python 3.9` and above  
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `nltk`, `pickle`.
