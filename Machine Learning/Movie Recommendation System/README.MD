@@ -5,10 +5,10 @@ The uploaded notebook demonstrates the following features:
 - **Recommendation techniques:** Employs content-based filtering in the model for recommendation based on user selection
 -**Frontend (UI):** A simple UI is developed using `Streamlit` framework using features such as st.title, st.selectbox and st.button
 
-## Dataset:
+### Dataset:
 The dataset used in this project is sourced from TMDB movie database from Kaggle. It contains user ratings, movie information, metadata, and other essential features used in building the model.
 
-## Frontend:
+### Frontend:
 The frontend application that implements the developed model is created using streamlit, and the data and the required dependencies for the similarity of the results is pipelined through the use of `pickle` library.  
 Run the notebook and 2 .pkl files will be created automatically.  
 Then, run the app locally on your browser by passing the following command in the terminal:
@@ -16,7 +16,7 @@ Then, run the app locally on your browser by passing the following command in th
 streamlit run app.py
 ```
 
-## Prerequisites:
+### Prerequisites:
 Firstly, download the project files and then extract the datasets into the same directory that you are storing the .ipynb and .py files.
 
 To run this notebook, you'll need:  
