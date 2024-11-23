@@ -10,7 +10,11 @@ The dataset used in this project is sourced from TMDB movie database from Kaggle
 
 ## Frontend:
 The frontend application that implements the developed model is created using streamlit, and the data and the required dependencies for the similarity of the results is pipelined through the use of `pickle` library.
-Run the notebook and 2 .pkl files will be created automatically. 
+Run the notebook and 2 .pkl files will be created automatically.
+Then, run the app locally on your browser by passing the following command in the terminal:
+```
+streamlit run app.py
+```
 
 ## Prerequisites:
 Firstly, download the project files and then extract the datasets into the same directory that you are storing the .ipynb and .py files.
